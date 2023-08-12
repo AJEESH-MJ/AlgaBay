@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlgaBay/static/css/main.3591a176.css",
+    "main.js": "/AlgaBay/static/js/main.871508fe.js",
+    "index.html": "/AlgaBay/index.html",
+    "main.3591a176.css.map": "/AlgaBay/static/css/main.3591a176.css.map",
+    "main.871508fe.js.map": "/AlgaBay/static/js/main.871508fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3591a176.css",
+    "static/js/main.871508fe.js"
+  ]
+}
